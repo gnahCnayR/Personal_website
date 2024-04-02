@@ -21,7 +21,7 @@ export function AppFooter() {
 				}}
 			>
 				<div className="flex flex-col md:flex-row justify-between items-center gap-10 md:gap-5">
-					<p className="font-light">Copyright &copy; {year} Vasile Novatchii</p>
+					<p className="font-light">Copyright &copy; {year} Ryan Chang</p>
 					<ScrollTop />
 					<ConnectMedia />
 				</div>

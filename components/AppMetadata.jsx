@@ -1,6 +1,6 @@
-const author = "Vasile Novatchii";
+const author = "Ryan Chang";
 const description =
-	"Software developer from Moldova, Republic of, who loves to develop beautiful websites, single page applications, customer relationship management or code from scratch using React and Next.js";
+	"Fullstack software developer from , who loves to develop beautiful websites, mobile applications, enterprise software or play around with AI and Spatial Computing.";
 const url = "https://vasile-novatchii.netlify.app";
 export const AppMetadata = {
 	metadataBase: new URL("https://vasile-novatchii.netlify.app/"),
@@ -13,12 +13,12 @@ export const AppMetadata = {
 		icon: "/favicon.png"
 	},
 	keywords: [
-		"Vasile Novatchii",
-		"Vasile Novatchii - software developer",
-		"Frontend developer",
-		"Flutter developer",
+		"Ryan Chang",
+		"Ryan Chang - software developer",
+		"Software developer",
+		"Mobile developer",
 		"Portfolio website",
-		"Frontend Developer Portfolio"
+		"Software Engineer Portfolio"
 	],
 	creator: author,
 	authors: [{ name: author, url: url }],

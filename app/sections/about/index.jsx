@@ -24,32 +24,10 @@ export function AboutSection() {
 							transition: "all 0.9s cubic-bezier(0.17, 0.55, 0.55, 1) 0.5s"
 						}}
 					>
-						<p>
-							My name is Vasile. I successfully graduated Technical University of Moldova, computer
-							science faculty.
-						</p>
-						<p>
-							During my university years, I developed a deep passion for web programming, and I
-							consistently engaged in learning new concepts and techniques in this field.
-						</p>
-						<p>So, officially, my programming journey began in 2017 as a WordPress developer.</p>
-						<p className="my-3.5">
-							I enjoy learning technologies that interest me, which is why I dedicated a significant
-							amount of time to working with WordPress.
-						</p>
-						<p>
-							One day, I decided to try something new, and I started learning React. I was so
-							excited to see how fast I can build a website with it, and how easy it is to maintain
-							it. Consequently, I quickly learnt Next.js and I used it to build some company
-							projects working in a team with a backend dev.
-						</p>
-						<p className="my-3.5">
-							In december 2023, I had an opportunity to start working as a React developer for a
-							company with the possibility of transitioning to mobile development. I was skeptical
-							about it at first, but I decided to give it a try, and I don&lsquo;t regret it. Now, I
-							thoroughly enjoy working with Flutter and Dart.
-						</p>
-					</div>
+					<p>My name is Ryan👋. I am currently studying computer science & business administration at the University of Southern California. 👨‍💻</p>
+					<p className="my-3.5">My love for programming ignited during high school when I was first introduced to game scripting using Unity and C#. 🎮 This initial exposure to coding captivated me, and I found myself drawn to the art of creating interactive experiences. From there, I delved deeper into the world of programming, learning Java in my AP Computer Science A course. 💻</p>
+					<p className="my-3.5">As my passion for technology grew, I became increasingly fascinated by the field of Artificial Intelligence (AI) and Spatial Computing. 🤖 I dedicated a significant amount of time to exploring these cutting-edge domains, constantly seeking to expand my knowledge and skills. 📚</p>
+					<p className="my-3.5">Now, I am leveraging my expertise to build Applied AI solutions that aim to solve real-world problems and improve the quality of life for people. 🌍 Through hackathons, I gained hands-on experience with a diverse range of technologies, including React, React Native, Flask, and more. 👨‍💻 These events not only honed my coding skills but also fostered my ability to ideate and bring innovative products to life. 💡</p></div>
 				</div>
 
 				<TimeLine />

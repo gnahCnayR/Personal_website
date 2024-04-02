@@ -4,11 +4,11 @@ import { useEffect, useRef, useState } from "react";
 import { LazyMotion, domAnimation, useInView } from "framer-motion";
 
 const TimeLineData = [
-	{ year: 2023, text: "Start my journey as a Flutter developer" },
-	{ year: 2022, text: "Start my journey as a React developer" },
-	{ year: 2021, text: "Dive completely into React.js" },
-	{ year: 2018, text: "Work as a WordPress developer" },
-	{ year: 2017, text: "Start a 3mo WordPress internship" }
+	{ year: 2020, text: "Started my journey learning game development" },
+	{ year: 2021, text: "Started learning more about AIML through computer vision" },
+	{ year: 2022, text: "Took first college course in computer science learning C++"},
+	{ year: 2023, text: "Attended first hackathon at USC and got first hands-on fullstack development experience" },
+	{ year: 2024, text: "Building web and mobile apps solving real-world problems" }
 ];
 
 export function TimeLine() {
